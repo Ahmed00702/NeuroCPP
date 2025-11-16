@@ -1,7 +1,7 @@
 #ifndef LAYER_H
 #define LAYER_H
 
-#include "Neuron.h"
+#include "Neuron.hpp"
 #include <vector>
 #include <iostream>
 
