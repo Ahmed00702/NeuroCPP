@@ -6,6 +6,7 @@ A simple neural network library written in modern C++.
 Currently includes basic `Neuron` and `Layer` classes, with a `NeuralNetwork` class planned for future releases.  
 This project focuses on clarity and learnability rather than advanced features or high performance, making it useful for studying neural network fundamentals or building small experimental models in C++.
 
+A lot of time was spent on adding comments explaining everything to make learning easy.
 ---
 
 ## Features
