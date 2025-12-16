@@ -15,13 +15,14 @@ A lot of time was spent on adding comments explaining everything to make learnin
 - ✔ Basic **Layer** class  
 - ⏳ **NeuralNetwork** class coming soon  
 - ✔ Clean modern C++ design  
-- ✔ Easy to read and modify  
+- ✔ Easy to read and modify
+- ✔ Q-Table class
 
 ---
 
 ## Project Goals
 
-- Provide a simple, minimal implementation of neural network components  
+- Provide a simple, minimal implementation of neural network components, along with some additional machine learning classes (such as Q-Tables)  
 - Serve as an educational resource for C++ developers learning about machine learning  
 - Keep the codebase small, clean, and understandable  
 
